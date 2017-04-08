@@ -1,2 +1,2 @@
-# family-affair
-affairs in daily life 
+# 家庭事务管理
+日常生活琐事的**记录**与**整理**
